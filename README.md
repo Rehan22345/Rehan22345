@@ -1,9 +1,9 @@
-![Dress Image]([https://images.playground.com/0434e33040b54822ae4c8248b7380dc1.jpeg](https://c4.wallpaperflare.com/wallpaper/830/266/321/anime-one-piece-monkey-d-luffy-wallpaper-preview.jpg))
-                                         Hi there, I'm Rehan Paudel 👋
-                                         10th Student | Backend Developer | From Nepal
-# 💫 About Me:
-🔭 I’m currently working to Master Backend<br>👯 I’m always learning new Technologies , langauges<br>🤝 I’m a self taught programmer<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about React , Node , Express , Mongodb.<br>⚡ Fun fact I'm 15 years old 
+![Dress Image](https://images.playground.com/0434e33040b54822ae4c8248b7380dc1.jpeg)
 
+Hi there, I'm Rehan Paudel 👋
+10th Student | Backend Developer | From Nepal
+# 💫 About Me:
+🔭 I’m currently working to Master Backend<br>👯 I’m always learning new Technologies , languages<br>🤝 I’m a self taught programmer<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about React , Node , Express , Mongodb.<br>⚡ Fun fact I'm 15 years old 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086124750447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rehan_paudel123/) 
@@ -27,4 +27,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rehan22345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Made by Rehan ❤️👀
+Made by Rehan ❤️
