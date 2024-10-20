@@ -8,7 +8,7 @@ Hi there, I'm Rehan Paudel 👋
 👯 I’m always learning new Technologies , languages <br>
 🤝 I’m a self taught programmer <br>
 💬 Ask me about React , Node , Express , Mongodb. <br>
-⚡ Fun fact I'm 15 years old <br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086124750447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rehan_paudel123/) 
