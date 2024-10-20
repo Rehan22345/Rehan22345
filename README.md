@@ -3,12 +3,12 @@
 Hi there, I'm Rehan Paudel 👋
 10th Student | Backend Developer | From Nepal
 # 💫 About Me:
-🌱 I'm currently learning backend
-🔭 Doing MERN Stack
-👯 I’m always learning new Technologies , languages
-🤝 I’m a self taught programmer
-💬 Ask me about React , Node , Express , Mongodb.
-⚡ Fun fact I'm 15 years old
+🌱 I'm currently learning backend <br> 
+🔭 Doing MERN Stack <br>
+👯 I’m always learning new Technologies , languages <br>
+🤝 I’m a self taught programmer <br>
+💬 Ask me about React , Node , Express , Mongodb. <br>
+⚡ Fun fact I'm 15 years old <br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086124750447) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rehan_paudel123/) 
