@@ -1,5 +1,5 @@
-                                                                               Hi there, I'm Rehan Paudel 👋
-                                                                               10th Student | Backend Developer | From Nepal
+                                                       Hi there, I'm Rehan Paudel 👋
+                                                       10th Student | Backend Developer | From Nepal
 # 💫 About Me:
 🔭 I’m currently working to Master Backend<br>👯 I’m always learning new Technologies , langauges<br>🤝 I’m a self taught programmer<br>🌱 I’m currently learning Backend Development<br>💬 Ask me about React , Node , Express , Mongodb.<br>⚡ Fun fact I'm 15 years old 
 
